@@ -1,0 +1,53 @@
+###########################################
+
+# Syntax Coloring Map For FlagTA6932
+
+###########################################
+
+
+###########################################
+
+# Datatypes (KEYWORD1)
+
+###########################################
+
+
+FlagTA6932                  	KEYWORD1
+
+
+###########################################
+
+# Methods and Functions (KEYWORD2)
+
+###########################################
+
+begin                KEYWORD2
+
+SendOneByte	
+KEYWORD2
+
+SendCmd	KEYWORD2
+
+SendGroupData	KEYWORD2
+
+SendOneData	KEYWORD2
+
+UpdateMultiLine	KEYWORD2
+
+UpdateRedFrame	KEYWORD2
+
+UpdateGreenFrame	KEYWORD2
+
+UpdateRedAndGreenFrame	KEYWORD2
+
+UpdateOneLine	KEYWORD2
+
+Clear		KEYWORD2
+
+SetLightLevel	KEYWORD2
+SetLed		KEYWORD2
+###########################################
+
+# Constants (LITERAL1)
+
+###########################################
